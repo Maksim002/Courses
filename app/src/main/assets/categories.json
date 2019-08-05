@@ -1,0 +1,52 @@
+[
+    {
+        "id": 2,
+        "title": "Тилдер",
+        "category_image_url": "https://i.ytimg.com/vi/c5ujx4OeQpY/maxresdefault.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Спорт",
+        "category_image_url": "https://i.ytimg.com/vi/c5ujx4OeQpY/maxresdefault.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Искусство",
+        "category_image_url": "https://i.ytimg.com/vi/c5ujx4OeQpY/maxresdefault.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Вождение",
+        "category_image_url": "https://i.ytimg.com/vi/c5ujx4OeQpY/maxresdefault.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Точные Науки",
+        "category_image_url": "https://i.ytimg.com/vi/c5ujx4OeQpY/maxresdefault.jpg"
+    },
+    {
+        "id": 10,
+        "title": "IT курсы",
+        "category_image_url": "https://i.ytimg.com/vi/c5ujx4OeQpY/maxresdefault.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Красота и Здоровье",
+        "category_image_url": "https://i.ytimg.com/vi/c5ujx4OeQpY/maxresdefault.jpg"
+    },
+    {
+        "id": 13,
+        "title": "Бизнес",
+        "category_image_url": "https://i.ytimg.com/vi/c5ujx4OeQpY/maxresdefault.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Подготовка к экзаменам",
+        "category_image_url": "https://i.ytimg.com/vi/c5ujx4OeQpY/maxresdefault.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Курсы по специальностям",
+        "category_image_url": "https://i.ytimg.com/vi/c5ujx4OeQpY/maxresdefault.jpg"
+    }
+]
